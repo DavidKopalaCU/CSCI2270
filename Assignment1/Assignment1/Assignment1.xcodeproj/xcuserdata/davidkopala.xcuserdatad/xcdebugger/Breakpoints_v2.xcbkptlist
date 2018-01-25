@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.818342"
+            timestampString = "538526770.836539"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "106"
             endingLineNumber = "106"
-            landmarkName = "main(int argc, const char * argv[])"
-            landmarkType = "9">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -26,13 +26,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.818702"
+            timestampString = "538526770.837005"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "99"
             endingLineNumber = "99"
-            landmarkName = "main(int argc, const char * argv[])"
-            landmarkType = "9">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -42,13 +42,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.818935"
+            timestampString = "538526770.837239"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "110"
             endingLineNumber = "110"
-            landmarkName = "main(int argc, const char * argv[])"
-            landmarkType = "9">
+            landmarkName = "unknown"
+            landmarkType = "0">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -58,12 +58,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.819159"
+            timestampString = "538526770.837483"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "116"
             endingLineNumber = "116"
-            landmarkName = "main(int argc, const char * argv[])"
+            landmarkName = "foundItem(bool *found, int *curLen, CommunityItem *sale, CommunityItem *wanted, int index, CommunityItem *items[MAX_LENGTH])"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -74,7 +74,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.8193769"
+            timestampString = "538526770.837709"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "120"
@@ -90,7 +90,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.819605"
+            timestampString = "538526770.837918"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "126"
@@ -106,13 +106,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.819827"
+            timestampString = "538526770.8381259"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "69"
             endingLineNumber = "69"
-            landmarkName = "foundItem(bool *found, int *curLen, CommunityItem *sale, CommunityItem *wanted, int index, CommunityItem *items[MAX_LENGTH])"
-            landmarkType = "9">
+            landmarkName = "CommunityItem"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -122,13 +122,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.820051"
+            timestampString = "538526770.838342"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "68"
             endingLineNumber = "68"
-            landmarkName = "foundItem(bool *found, int *curLen, CommunityItem *sale, CommunityItem *wanted, int index, CommunityItem *items[MAX_LENGTH])"
-            landmarkType = "9">
+            landmarkName = "CommunityItem"
+            landmarkType = "14">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -138,12 +138,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.820269"
+            timestampString = "538526770.838546"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "117"
             endingLineNumber = "117"
-            landmarkName = "main(int argc, const char * argv[])"
+            landmarkName = "foundItem(bool *found, int *curLen, CommunityItem *sale, CommunityItem *wanted, int index, CommunityItem *items[MAX_LENGTH])"
             landmarkType = "9">
          </BreakpointContent>
       </BreakpointProxy>
@@ -154,7 +154,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Assignment1/main.cpp"
-            timestampString = "538524541.820484"
+            timestampString = "538526770.838747"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "144"
