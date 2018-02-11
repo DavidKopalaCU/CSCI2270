@@ -161,11 +161,11 @@ int main(int argc, char * argv[]) {
             }
             
             bool found = false;
+            if (isStopWord(word, ignoreWords)) {
+                found = true;
+                continue;
+            }
             for (int i = 0; i < index; i++) {
-                if (isStopWord(word, ignoreWords)) {
-                    found = true;
-                    break;
-                }
                 wordItem *item = words[i];
                 if (item->word == word) {
                     item->count++;
