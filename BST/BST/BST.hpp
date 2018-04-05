@@ -41,8 +41,6 @@ private:
     void priv_deleteValue(node *parent, int target);
     bool priv_find(node *parent, int target);
     void getLevel_recur(node *parent, int level, string *build);
-    node *priv_getNextSmallest(node *parent);
-    node *priv_getNextLargest(node *parent);
     
 public:
     BST(int start);
